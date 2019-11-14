@@ -1,0 +1,95 @@
+
+.low-usage {
+    color: rgb(29, 233, 29);
+  }
+  
+.medium-usage {
+color: white;
+}
+
+.high-usage {
+color: rgb(255, 44, 44);
+}
+
+/* button {
+    z-index: 1;
+    position: relative;
+    font-size: inherit;
+    font-family: inherit;
+    color: white;
+    padding: 0.5em 1em;
+    outline: none;
+    border: none;
+    background-color: hsl(276, 51%, 33%);
+    overflow: hidden;
+    transition: color 0.4s ease-in-out;
+  }
+  
+  button::before {
+    content: '';
+    z-index: -1;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 1em;
+    height: 1em;
+    border-radius: 50%;
+    background-color: #3cefff;
+    transform-origin: center;
+    transform: translate3d(-50%, -50%, 0) scale3d(0, 0, 0);
+    transition: transform 0.45s ease-in-out;
+  }
+  
+  button:hover {
+    cursor: pointer;
+    color: #161616;
+  }
+  
+  button:hover::before {
+    transform: translate3d(-50%, -50%, 0) scale3d(15, 15, 15);
+  }
+  
+
+body {
+    height: 100%;
+    width: 400px;
+    background-image: linear-gradient(hsl(236, 32%, 26%), rgb(138, 39, 177), orange);
+    background-size: auto;
+    background-repeat: no-repeat;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+
+  .thermodial {
+      display: flex;
+      width: 50%;
+      flex-direction: row;
+      justify-content: space-around;
+      border: 1px solid black;
+  }
+  
+  p {
+      color: white;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+
+  .psm_msg {
+    text-align: center;
+    width: 50%;
+}
+
+html {
+   height: 100%;
+}
+
+form {
+    display: flex;
+    width: 50%;
+    justify-content: center;
+}
+
+.city-temp {
+   
+
+}
+ */
+
